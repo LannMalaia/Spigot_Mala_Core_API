@@ -1,0 +1,16 @@
+name: Laylia_Core_API
+main: laylia_core.main.Laylia_API
+version: 1.17
+api-version: 1.17
+author: Malaia_Garnet
+description: Malaia's Core API.
+depend: [Vault, MMOCore, MMOItems, MythicLib, LibsDisguises]
+commands:
+   la-iteminfo:
+      description: Just for test.
+      usage: /la-iteminfo
+      default: true
+   la-skript_variable:
+      description: Just for test.
+      usage: /la-skript_variable
+      default: true
